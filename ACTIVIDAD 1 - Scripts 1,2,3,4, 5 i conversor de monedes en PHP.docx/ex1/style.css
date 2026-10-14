@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(231, 5, 92);
+    font-family: Arial;
+    color:white;
+    font-size: large;
+    padding: 20%;
+}
+
+h1 {
+    color: rgb(254, 254, 255);
+}
+
+.caja {
+    display: grid;     
+    justify-content: center; 
+}
+
